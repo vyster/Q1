@@ -1,0 +1,44 @@
+this is just for testing the 
+￼ 
+VYOM AGARWAL
+Junior Undergraduate, IIT(BHU) Varanasi
+Hello! I am Vyom Agarwal. I work as interface and front-end developer. I have passion for pixel perfect, minimal and easy to use interfaces. I'm focused, dedicated, hard-working and willing to learn in a changing and challenging environment.
+Courses & Workshops
+Udacity: Intro to HTML and CSS
+Build styled, well-structured websites. Learn how to use HTML5 standard to create websites. Understand CSS syntax, selectors, and units. Learn about code editors and a browser's Developer Tools.
+Udemy: The Web Developer Bootcamp
+Learn how to create full-stack web applications from scratch using HTML, CSS, JavaScript, jQuery, VanillaJS, NodeJS, MongoDB.
+EdX: Web Programming with JavaScript
+Learn how to create web apps and prototypes with JavaScript, represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.
+Django Girls: 2-Day Workshops
+Learn back-end development with simple blog application using Django framework.
+Skills
+Good knowledge
+	•	HTML5
+	•	CSS
+	•	JavaScript ES5/6
+	•	SQL
+Basic knowledge
+	•	jQuery
+	•	NodeJS
+	•	MongoDB
+	•	Django
+Languages
+🇵🇱 Polish - Native speaker
+🇬🇧 English - Proficient C1/C2
+🇫🇷 French - Advanced - C1
+🇪🇸 Spanish - Intermediate - B1/B2
+🇩🇪 German - Elementary / Communicative - A2
+Education
+2015-2018 Octocats tech academy 
+Bechelor Degree of Octorobotics 
+2012-2015 Underwater kittens high school 
+Main subject: Cathemathics 
+Experience
+03.2018 - 06.2018 Tentacles Company
+Position: Web developer Intern 
+Tech stack: HTML5 / CSS / JavaScript / jQuery
+	•	Develop web application for Octopoda departments
+	•	Implement UI (front-end site) based on received graphic design and requirements
+	•	Co-operate with the back-end team 
+Created by: @vyster / LinkedIn / 2018 
